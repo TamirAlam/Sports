@@ -1,0 +1,1 @@
+Badminton uses hsuttlecock, racket, net
